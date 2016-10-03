@@ -1,4 +1,6 @@
 package pe.edu.upeu;
+
+//Clase Alumno
 public  class Alumno extends Persona {
 private String curso;
 private int nivelAcademico;
